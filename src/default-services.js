@@ -94,5 +94,13 @@ module.exports = [
     color: '#ffe600',
     style: {},
     permissions: []
+  },
+  {
+    name: 'Apple TV+'
+    logo: 'services/AppleTV-iOS.png',
+    url: 'https://tv.apple.com',
+    color: '#b3b3b3',
+    style: {},
+    permissions: []
   }
 ];
